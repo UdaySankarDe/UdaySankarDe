@@ -1,3 +1,5 @@
+![logo](https://github.com/UdaySankarDe/UdaySankarDe/blob/main/giphy%20(1).gif)
+
 <h1 align="center">Hi 👋, I'm Uday Sankar De</h1>
 <h3 align="center">A passionate developer and tech enthusiastic person.</h3>
 
