@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Uday Sankar De</h1>
-<h3 align="center">A passionate developer and tech enthusiastic person.</h3>
+<h1 align="center">Hi 👋, I'm Uday Sankar </h1>
+<h3 align="center">A Passionate Developer and Tech Enthusiastic Person </h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN213Y2QzaW8xemwweHBqZ3k5djFnYzBzbW5sMmlkbDZrYTMwZ2ZzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaysankarde&label=Profile%20views&color=0e75b6&style=flat" alt="udaysankarde" /> </p>
 
-- 🌱 I’m currently learning **JS and Android studio**
+- 🌱 I’m currently learning **JS and Android Studio**
 
 - 💬 Ask me about **Web and App Development**
 
