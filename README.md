@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/uday-sankar-de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uday-sankar-de" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100080983838085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100080983838085" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uday-sankar-de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday-sankar-de" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100080983838085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100080983838085" height="30" width="40" /></a>
 <a href="https://instagram.com/imuday_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imuday_19" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/udaysankaryy2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="udaysankaryy2" height="30" width="40" /></a>
 <a href="https://discord.gg/udaysankar_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="udaysankar_24" height="30" width="40" /></a>
