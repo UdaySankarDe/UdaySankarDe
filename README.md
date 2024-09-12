@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaysankarde&label=Profile%20views&color=0e75b6&style=flat" alt="udaysankarde" /> </p>
 
-- 🌱 I’m currently learning **JS and Android Studio**
+- 🌱 I’m currently learning **JS, React and Machine Learning**
 
-- 💬 Ask me about **Web and App Development**
+- 💬 Ask me about **Web Development(Front End) and ML**
 
 - 📫 How to reach me **udaysankarde2022@gmail.com**
 
