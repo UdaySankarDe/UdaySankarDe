@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS, React and Machine Learning**
 
-- 💬 Ask me about **Web Development(Front End) and ML**
+- 💬 Ask me about **Web Development(Front End), DSA(C++) and ML**
 
 - 📫 How to reach me **udaysankarde2022@gmail.com**
 
